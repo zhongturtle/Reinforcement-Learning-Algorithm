@@ -3,3 +3,6 @@
 - Wrote in python、pytorch and tensorflow
 - Included run on the single machine and ditributed systems
 ## TO-DO List
+- DQN
+- DDPG
+- TD-Learning
