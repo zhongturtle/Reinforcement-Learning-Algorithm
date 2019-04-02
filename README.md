@@ -9,4 +9,6 @@
 - DQN
 - DDPG
 - TD-Learning
+- distributed
+
 
