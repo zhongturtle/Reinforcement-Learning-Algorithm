@@ -4,6 +4,8 @@
 - Included run on the single machine and ditributed systems
 ## TO-DO List
 - Basic Algorithm
+- Q-Learning
+- SARSA
 - DQN
 - DDPG
 - TD-Learning
