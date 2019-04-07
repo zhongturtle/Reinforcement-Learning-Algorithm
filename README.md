@@ -10,5 +10,5 @@
 - DDPG
 - TD-Learning
 - distributed
-
+- parallel
 
