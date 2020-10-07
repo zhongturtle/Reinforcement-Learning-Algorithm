@@ -11,4 +11,5 @@
 - TD-Learning
 - distributed
 - parallel
+- Dreamer
 
